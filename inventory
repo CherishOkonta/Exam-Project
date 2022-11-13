@@ -1,0 +1,5 @@
+[your-server]
+165.227.231.201
+[your-server:vars]
+ansible_user=root
+
